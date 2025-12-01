@@ -1,2 +1,1 @@
-# EinstineAI
-Agentforce Codes
+# Einstein-AI Code examples
